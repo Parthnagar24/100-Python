@@ -1,7 +1,5 @@
-print("Hello World!")    
+# Printing a simple message
+print("Hello World!")
 
-
-print("Hello World!\nHello World!")  
-
-
-
+# Printing the message twice, with a new line in between
+print("Hello World!\nHello World!")

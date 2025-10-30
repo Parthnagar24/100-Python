@@ -1,15 +1,16 @@
-# assigns a value to variable 'name'
-name = input("What is your name?")
+# Assigns user input to the variable 'name' and prints it
+name = input("What is your name? ")
 print(name)
 
+# Reassigns a new value to 'name' and prints it
 name = "Alice"
 print(name)
 
-# To get the lenght of string use len() function
-length = len(input("What is your name?"))
+# Gets the length of a string directly from user input using len()
+length = len(input("What is your name? "))
 print(length)
 
-
-name = input("What is your name?")
+# Stores input in a variable first, then calculates and prints the length
+name = input("What is your name? ")
 length = len(name)
 print(length)

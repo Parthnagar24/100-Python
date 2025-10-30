@@ -1,5 +1,5 @@
-print("Hello" + "Parth")     # HelloParth
+# String concatenation without space
+print("Hello" + "Parth")   # Output: HelloParth
 
-
-# String Concatenation with Space
-print("Hello" + " " + "Parth")   # Hello Parth 
+# String concatenation with space
+print("Hello" + " " + "Parth")   # Output: Hello Parth

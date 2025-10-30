@@ -1,7 +1,8 @@
-# input(" A prompt for the user ")
+# Example of input() function with a prompt
+input("A prompt for the user ")
 
-input("What is your name?")
+# Prints a greeting using user input
 print("Hello " + input("What is your name?"))
 
-# Add !' at the end 
+# Adds an exclamation mark at the end of the greeting
 print("Hello " + input("What is your name?") + "!")

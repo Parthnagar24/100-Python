@@ -1,19 +1,18 @@
-# Subscripting strings
-print("Hello"[-2])
+# Subscripting strings – accessing characters by index
+print("Hello"[-2])   # Output: 'l' (second last character)
 
+# String concatenation (joining two strings)
+print("1234" + "5678")   # Output: 12345678
 
-# String
-print("1234"  + "5678")
+# Integer addition (numbers are added, not concatenated)
+print(1234 + 5678)   # Output: 6912
 
-# Integer = Whole number
-print(1234  + 5678)
+# Large integer addition (Python supports arbitrarily large integers)
+print(12345678901234567890 + 98765432109876543210)   # Output: 111111111011111111100
 
-# Large Integer
-print(12345678901234567890 + 98765432109876543210)
+# Floating-point (decimal) number addition
+print(3.14 + 2.71)   # Output: 5.85
 
-# Float = Floating Point Number
-print(3.14 + 2.71)
-
-# Boolean = True or False
+# Boolean values – represent truth values
 print(True)
 print(False)
